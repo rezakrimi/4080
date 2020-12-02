@@ -19,13 +19,13 @@ debug = False
 vocab_size = 45000
 freeze_embedding = True
 
-num_epochs = 20
+num_epochs = 40
 max_len = 400
 num_layers = 2
 hidden_size = 300
 embedding_size = 300
 lr = 0.1
-batch_size = 64
+batch_size = 8
 dropout = 0.3
 max_grad_norm = 5.0
 

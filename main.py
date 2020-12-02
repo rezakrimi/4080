@@ -1,5 +1,7 @@
+import sys
+sys.path.append(".")
 from trainer import Trainer
-from infenrence import BeamSearcher
+from inference import BeamSearcher
 import config
 import argparse
 

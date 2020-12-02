@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 __author__ = 'xinya'
 
 from bleu.bleu import Bleu

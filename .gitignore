@@ -112,3 +112,4 @@ venv.bak/
 /result
 /squad
 debug.py
+/cnn-dailymail
